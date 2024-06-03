@@ -11,7 +11,7 @@ function HomePage() {
     <div className="menu">
       <ul>
         <li>
-          <a src="blogalcoolismo.html">
+          <a src="blogalcoolismo">
             <b>CAPS - Centro de Apoio Psicossocial</b>
           </a>
         </li>
