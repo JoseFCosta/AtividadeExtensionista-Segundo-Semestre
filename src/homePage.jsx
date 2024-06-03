@@ -3,6 +3,7 @@ import banned from './assets/banned2.png'
 import imagemInicio from './assets/Imagem2.svg'
 import instagram from './assets/instagram.png'
 import email from './assets/email.png'
+import "./index.css"
 
 function HomePage() {
 
@@ -11,7 +12,7 @@ function HomePage() {
     <div className="menu">
       <ul>
         <li>
-          <a src="blogalcoolismo">
+          <a src="/">
             <b>CAPS - Centro de Apoio Psicossocial</b>
           </a>
         </li>
@@ -83,49 +84,49 @@ function HomePage() {
       <div className="margem-blog">
         <div className="menu-opcoes">
           <div className="blog-item">
-            <a href="blogalcoolismo.html">
+            <a href="blogalcoolismo">
               <img src={banned} />
               <p>ALCOLISMO</p>
             </a>
           </div>
           <div className="blog-item">
-            <a href="blogalcoolismo.html">
+            <a href="blogalcoolismo">
               <img src={banned} />
               <p>ALCOLISMO</p>
             </a>
           </div>
           <div className="blog-item">
-            <a href="blogalcoolismo.html">
+            <a href="blogalcoolismo">
               <img src={banned} />
               <p>ALCOLISMO</p>
             </a>
           </div>
           <div className="blog-item">
-            <a href="blogalcoolismo.html">
+            <a href="blogalcoolismo">
               <img src={banned} />
               <p>ALCOLISMO</p>
             </a>
           </div>
           <div className="blog-item">
-            <a href="blogalcoolismo.html">
+            <a href="blogalcoolismo">
               <img src={banned} />
               <p>ALCOLISMO</p>
             </a>
           </div>
           <div className="blog-item">
-            <a href="blogalcoolismo.html">
+            <a href="blogalcoolismo">
               <img src={banned} />
               <p>ALCOLISMO</p>
             </a>
           </div>
           <div className="blog-item">
-            <a href="blogalcoolismo.html">
+            <a href="blogalcoolismo">
               <img src={banned} />
               <p>ALCOLISMO</p>
             </a>
           </div>
           <div className="blog-item">
-            <a href="blogalcoolismo.html">
+            <a href="blogalcoolismo">
               <img src={banned} />
               <p>ALCOLISMO</p>
             </a>
