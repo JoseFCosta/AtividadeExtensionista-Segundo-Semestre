@@ -1,8 +1,11 @@
 import { useState } from 'react'
+
+
 import banned from './assets/banned2.png'
 import imagemInicio from './assets/Imagem2.svg'
 import instagram from './assets/instagram.png'
 import email from './assets/email.png'
+
 import "./index.css"
 
 function HomePage() {

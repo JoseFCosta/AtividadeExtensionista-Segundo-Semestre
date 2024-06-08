@@ -1,0 +1,21 @@
+
+table {
+    width: 100%;
+    height: 200px;
+  }
+  
+.box{
+    text-align: center;
+    background-color: rgb(220, 197, 242);
+    
+}
+
+.table-imagem {
+    width: 70%;
+    background-color: aqua;
+    text-align: center;
+  }  
+.table-texto {
+    width: 30%;
+  }
+  
