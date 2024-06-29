@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import HomePage from './homePage/homePage.jsx'
 import Localizacao from './localizacao/localizacao.jsx'
 import SobreNos from './sobrenos/sobrenos.jsx'
-import Blog1 from './blogs/blogA.jsx';
+import BlogA from './blogs/blogA.jsx';
 import Blog3 from './blogs/blog3.jsx';
 import Blog2 from './blogs/blog2.jsx';
 import Blog4 from './blogs/blog4.jsx';
@@ -21,7 +21,7 @@ function App() {
         <Route path="/localizacao" element={<Localizacao />} />
         <Route path="/sobrenos" element={ <SobreNos  />} />
 
-        <Route path="/blogA" element={<Blog1 />} />
+        <Route path="/blogA" element={<BlogA />} />
         <Route path="/blog2" element={<Blog2 />} />
         <Route path="/blog3" element={<Blog3 />} />
         <Route path="/blog4" element={<Blog4 />} />
