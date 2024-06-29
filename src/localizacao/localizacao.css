@@ -23,6 +23,7 @@ text-align: center;
   height: 100%;
   font-size: 150%;
   padding-top: 8%;
+  font-weight: bold;
 }
 
 
@@ -33,6 +34,7 @@ text-align: center;
   width: 30%;
   text-align: center;
   background-color: #FDFF97;
+  font-size: 130%;
 }
 
 .box2{
@@ -40,7 +42,9 @@ text-align: center;
     width: 100%;
     height: 100%;
     background-color: #ACFF97;
+    font-size: 150%;
     padding-top: 8%;
+    font-weight: bold;
   
   }
   
@@ -60,6 +64,7 @@ text-align: center;
       height: 100%;
       font-size: 150%;
       padding-top: 8%;
+      font-weight: bold;
     
     }
     
@@ -71,6 +76,7 @@ text-align: center;
       width: 30%;
       text-align: center;
       background-color: #FFC997;
+      font-size: 150%;
     }
 
 
@@ -81,6 +87,7 @@ text-align: center;
         background-color: #FF9797;
         padding-top: 8%;
         font-size: 150%;
+        font-weight: bold;
         
       
       }
@@ -91,6 +98,7 @@ text-align: center;
       .table-texto4 {
         width: 30%;
         text-align: center;
+        font-size: 150%;
       }
 
 
@@ -101,6 +109,7 @@ text-align: center;
           height: 100%;
           padding-top: 8%;
           font-size: 150%;
+          font-weight: bold;
         
         }
         
@@ -110,4 +119,5 @@ text-align: center;
         .table-texto5 {
           width: 30%;
           text-align: center;
+          font-size: 150%;
         }

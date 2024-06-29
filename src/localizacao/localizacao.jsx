@@ -1,11 +1,17 @@
 import "./localizacao.css";
-import CAPSI from "./assets/capsiv.png";
-import CAPSII from "./assets/capsii.png";
-import CAPSIII from "./assets/capsadolescer.png";
-import CAPSAD from "./assets/capsad.png";
-import CAPS from "./assets/caps.png";
-import instagram from "./assets/instagram.png";
-import email from "./assets/email.png";
+import CAPSI from '../assets/localizacao/capsiv.png'
+
+import CAPSII from '../assets/localizacao/capsii.png'
+
+import CAPSIII from '../assets/localizacao/capsadolescer.png'
+
+import CAPSAD from '../assets/localizacao/capsad.png'
+
+import CAPS from '../assets/localizacao/caps.png'
+
+import instagram from "../assets/instagram.png";
+import email from "../assets/email.png";
+
 
 function Localizacao() {
   return (
@@ -16,9 +22,9 @@ function Localizacao() {
         </a>
       </div>
       <div className="container-titulo">
-        <h1>Blogs</h1>
+        <h1>ENDEREÇOS</h1>
         <br />
-        <h3>Outros assuntos importantes e aprofundamento sobre os temas</h3>
+        <h3>Aqui estão os endereços do CAPS na região de Cuiabá-MT</h3>
         <br />
         <br />
         </div>
@@ -43,7 +49,9 @@ function Localizacao() {
             <div className="box2">
               NOME: CAPS II
               <br />
+              <br />
               ENDERECO: RUA MAURICIO CARDOSO, 735, CIDADE ALTA, CUIABA-MT
+              <br />
               <br />
               CEP: 78030-425
             </div>
@@ -61,7 +69,9 @@ function Localizacao() {
             <div className="box3">
               NOME: CAPS AD INFANTO JUVENIL
               <br />
+              <br />
               ENDERECO: RUA ROMÊNIA, JARDIM EUROPA, CUIABA-MT
+              <br />
               <br />
               CEP: 78065-395
             </div>
@@ -73,7 +83,9 @@ function Localizacao() {
             <div className="box4">
               NOME: CAPSIII ADOLESCER
               <br />
+              <br />
               ENDERECO: RUA CEILÃO, 304, JARDIM SHANGRI-LÁ, CUIABA-MT
+              <br />
               <br />
               CEP: 78070-150
             </div>
@@ -91,11 +103,13 @@ function Localizacao() {
             <div className="box5">
               NOME: CAPS
               <br />
+              <br />
               ENDERECO: RUA ADAUTLO BOTELHO - COOPHEMA, CUIABA-MT
+              <br />
               <br />
               CEP: 78085-200
               <br />
-              CEP: 78065-395
+           
             </div>
           </td>
         </tr>

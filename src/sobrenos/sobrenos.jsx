@@ -1,7 +1,7 @@
 import React from 'react';
 import './sobrenos.css';
-import instagram from './assets/instagram.png'
-import email from './assets/email.png'
+import instagram from '../assets/instagram.png'
+import email from '../assets/email.png'
 
 function SobreNos() {
   return (

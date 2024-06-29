@@ -1,13 +1,23 @@
 import { useState } from "react";
 
-import "./index.css";
+import "./homePage.css";
 
-import banned from "./assets/banned2.png";
-import imagemInicio from "./assets/Imagem2.svg";
-import instagram from "./assets/instagram.png";
-import email from "./assets/email.png";
-import imagemInicio2 from "./assets/grupo_de_pessoas.png";
-import mulher_falando from "./assets/mulher_falando.png";
+import banned from "../assets/homePage/banned.png";
+import imagemInicio from "../assets/homePage/Imagem2.svg";
+import imagemInicio2 from "../assets/homePage/grupo_de_pessoas.png";
+import mulher_falando from "../assets/homePage/mulher_falando.png";
+
+import instagram from "../assets/instagram.png";
+import email from "../assets/email.png";
+
+/*
+import banned from "../assets/homePage/banned";
+import imagemInicio from "../assets/homePage/Imagem2.svg";
+import instagram from "../assets/homePage/instagram.png";
+import email from "../assets/homePage/email.png";
+import imagemInicio2 from "../assets/homePage/grupo_de_pessoas.png";
+import mulher_falando from "../assets/homePage/mulher_falando.png";
+ */
 
 function HomePage() {
   return (
@@ -179,12 +189,12 @@ function HomePage() {
       </div>
       <div className="endereco-item">
         <a href="/localizacao">
-        <h2>CLIQUE AQUI E VERIFIQUE OS ENDERECOS</h2>
+          <h2>CLIQUE AQUI E VERIFIQUE OS ENDERECOS</h2>
         </a>
       </div>
-        <br />
-        <br />
-        <br />
+      <br />
+      <br />
+      <br />
       <div className="rodape">
         <div className="margem-rodape">
           <br />
