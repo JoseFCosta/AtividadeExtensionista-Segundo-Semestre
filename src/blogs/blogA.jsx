@@ -4,6 +4,7 @@ import blog1 from "../assets/blogs/blog1.png"
 function BlogA (){
     return (
 <>
+{/*
 <header>
     <div className="rodape_blog">
         <div className="home">
@@ -12,6 +13,9 @@ function BlogA (){
         </div>
     </div>
 </header>
+
+*/}
+    {console.log("aaaaa")}
 <div className="titulo"><h1>Bullying</h1></div>
 <div className="imagem"><img src={blog1}/></div>
 <div className="bloco1">
@@ -56,4 +60,4 @@ function BlogA (){
 
 }
 
-export default BlogA
+export default BlogA;
