@@ -124,7 +124,7 @@ function HomePage() {
         <div className="margem-blog">
           <div className="menu-opcoes">
             <div className="blog-item">
-              <a href="blog1">
+              <a href="/blog1">
                 <img src={bullying} />
                 <p>Bullying</p>
               </a>
@@ -199,7 +199,7 @@ function HomePage() {
           <br />
           <div className="rodape-sobre-nos">
             <a href="sobrenos">
-                <h2>SOBRE NÓS</h2>
+              <h2>SOBRE NÓS</h2>
             </a>
             <ul>
               <li>
