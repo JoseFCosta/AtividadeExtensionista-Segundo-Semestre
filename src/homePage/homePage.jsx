@@ -124,7 +124,7 @@ function HomePage() {
         <div className="margem-blog">
           <div className="menu-opcoes">
             <div className="blog-item">
-              <a href="/blog1">
+              <a href="/blogA">
                 <img src={bullying} />
                 <p>Bullying</p>
               </a>

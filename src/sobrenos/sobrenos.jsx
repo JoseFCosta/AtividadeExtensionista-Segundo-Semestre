@@ -6,7 +6,6 @@ import email from '../assets/email.png'
 function SobreNos() {
   return (
     <>
-    {console.log("aaaaa")}
       <div className="title" >
         <a className="title" href="./">
         <h1>CAPS - Centro de Apoio Psicossocial</h1>
