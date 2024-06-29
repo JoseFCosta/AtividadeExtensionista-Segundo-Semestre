@@ -163,7 +163,7 @@ function HomePage() {
       <div className="margem-rodape">
         <br />
         <div className="rodape-sobre-nos">
-          <h2>SOBRE NÓS</h2>
+          <h2 href="sobrenos" >SOBRE NÓS</h2>
           <ul>
             <li>
               Somos uma equipe dedicada em contribuir e informar a população,
