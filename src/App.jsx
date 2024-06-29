@@ -13,7 +13,6 @@ function App() {
         <Route path="/" element={<HomePage />} />
         <Route path="/blogalcoolismo" element={<BlogAlcoolismo />} />
         <Route path="/localizacao" element={<Localizacao />} />
-     
         <Route path="/sobrenos" element={ <SobreNos  />} />
      
       </Routes>

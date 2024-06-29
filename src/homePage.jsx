@@ -25,9 +25,9 @@ function HomePage() {
     <div className="container-titulo">
       <br />
       <br />
-      <h1>Titulo inicial</h1>
+      <h1>Introdução</h1>
       <br />
-      <h3>Ainda não sei se vou deixar isso aqui</h3>
+      <h3>Não. O CAPS não é um hospicio</h3>
     </div>
 
     <div className="container">
@@ -52,6 +52,15 @@ function HomePage() {
                 comunitários
               </p>
               <br />
+            </div>
+          </td>
+          <td className="td-esquerda"><img src={imagemInicio} /></td>
+        </tr>
+        <td className="td-direita">
+          <h1> Aqui vai ter uma imagem</h1>
+        </td>
+        <td className="td-esquerda">
+        <div className="apresentacao">
               <h1>E qual é a sua importância?</h1>
               <br />
               <p>
@@ -66,11 +75,9 @@ function HomePage() {
                 a inclusão social e o fortalecimento dos vínculos familiares e
                 comunitários
               </p>
-              <br />
-            </div>
-          </td>
-          <td className="td-esquerda"><img src={imagemInicio} /></td>
-        </tr>
+              
+              </div>
+        </td>
         </tbody>
       </table>
       <br />
