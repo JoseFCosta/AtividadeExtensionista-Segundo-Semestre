@@ -64,7 +64,7 @@ align-items: center;
     margin-bottom: 5%;
     margin-inline: 10%;
     border-radius: 20px;
-
+    box-shadow: 13px 13px 13px #00000072;
   }
 
   .apresentacao-2 {
@@ -76,6 +76,7 @@ align-items: center;
     margin-bottom: 5%;
     margin-inline: 10%;
     border-radius: 20px;
+    box-shadow: 13px 13px 13px #00000072;
   }
 
   .apresentacao-3 {
@@ -87,6 +88,7 @@ align-items: center;
     margin-bottom: 5%;
     margin-inline: 10%;
     border-radius: 20px;
+    box-shadow: 13px 13px 13px #00000072;
   }
 
   .apresentacao-4 {
@@ -98,6 +100,7 @@ align-items: center;
     margin-bottom: 10%;
     margin-inline: 10%;
     border-radius: 20px;
+    box-shadow: 13px 13px 13px #00000072;
 
   }
 

@@ -216,6 +216,12 @@ table {
   justify-content: none;
 }
 
+
+.sombra {
+box-shadow: 13px 13px 13px black;
+
+}
+
 body::-webkit-scrollbar {
   width: 1%;
   height: 1%;

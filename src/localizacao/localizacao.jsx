@@ -153,13 +153,13 @@ function Localizacao() {
             <h2>NOSSA EQUIPE</h2>
             <ul>
               <li>José Fernando</li>
-              <li>Ana Sobrenome</li>
-              <li>Luis Sobrenome</li>
-              <li>Caio Sobrenome</li>
-              <li>Lucas Gustavo</li>
+              <li>Ana Luiza</li>
+              <li>Luis Eduardo</li>
+              <li>Caio Augusto</li>
+              <li>Lucas</li>
               <li>Gustavo Waltric</li>
-              <li>Mais Gustavo</li>
-              <li>Gustavo 4</li>
+              <li>Gustavo Felipe</li>
+              <li>Wagner Franco</li>
             </ul>
           </div>
         </div>

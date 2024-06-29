@@ -11,7 +11,6 @@ import exercicio from "../assets/homePage/icons/exercicio.png";
 import humanizacao from "../assets/homePage/icons/humanizacao.png";
 import trauma from "../assets/homePage/icons/trauma.png";
 
-
 import imagemInicio from "../assets/homePage/Imagem2.svg";
 import imagemInicio2 from "../assets/homePage/grupo_de_pessoas.png";
 import mulher_falando from "../assets/homePage/mulher_falando.png";
@@ -200,7 +199,7 @@ function HomePage() {
           <br />
           <div className="rodape-sobre-nos">
             <a href="sobrenos">
-              <h2>SOBRE NÓS</h2>
+                <h2>SOBRE NÓS</h2>
             </a>
             <ul>
               <li>
@@ -231,13 +230,13 @@ function HomePage() {
             <h2>NOSSA EQUIPE</h2>
             <ul>
               <li>José Fernando</li>
-              <li>Ana Sobrenome</li>
-              <li>Luis Sobrenome</li>
-              <li>Caio Sobrenome</li>
-              <li>Lucas Gustavo</li>
+              <li>Ana Luiza</li>
+              <li>Luis Eduardo</li>
+              <li>Caio Augusto</li>
+              <li>Lucas</li>
               <li>Gustavo Waltric</li>
-              <li>Mais Gustavo</li>
-              <li>Gustavo 4</li>
+              <li>Gustavo Felipe</li>
+              <li>Wagner Franco</li>
             </ul>
           </div>
         </div>
