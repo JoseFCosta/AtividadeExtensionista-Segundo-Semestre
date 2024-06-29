@@ -2,22 +2,22 @@ import { useState } from "react";
 
 import "./homePage.css";
 
-import banned from "../assets/homePage/banned.png";
+import alcolismo from "../assets/homePage/icons/banned.png";
+import bullying from "../assets/homePage/icons/bullying.png";
+import cyberbullying from "../assets/homePage/icons/cyberbullying.png";
+import desigualdade_social from "../assets/homePage/icons/desigualdade_social.png";
+import discriminacao from "../assets/homePage/icons/discriminacao.png";
+import exercicio from "../assets/homePage/icons/exercicio.png";
+import humanizacao from "../assets/homePage/icons/humanizacao.png";
+import trauma from "../assets/homePage/icons/trauma.png";
+
+
 import imagemInicio from "../assets/homePage/Imagem2.svg";
 import imagemInicio2 from "../assets/homePage/grupo_de_pessoas.png";
 import mulher_falando from "../assets/homePage/mulher_falando.png";
 
 import instagram from "../assets/instagram.png";
 import email from "../assets/email.png";
-
-/*
-import banned from "../assets/homePage/banned";
-import imagemInicio from "../assets/homePage/Imagem2.svg";
-import instagram from "../assets/homePage/instagram.png";
-import email from "../assets/homePage/email.png";
-import imagemInicio2 from "../assets/homePage/grupo_de_pessoas.png";
-import mulher_falando from "../assets/homePage/mulher_falando.png";
- */
 
 function HomePage() {
   return (
@@ -125,51 +125,51 @@ function HomePage() {
         <div className="margem-blog">
           <div className="menu-opcoes">
             <div className="blog-item">
-              <a href="blogalcoolismo">
-                <img src={banned} />
-                <p>ALCOLISMO</p>
+              <a href="blog1">
+                <img src={bullying} />
+                <p>Bullying</p>
               </a>
             </div>
             <div className="blog-item">
-              <a href="blogalcoolismo">
-                <img src={banned} />
-                <p>ALCOLISMO</p>
+              <a href="blog2">
+                <img src={alcolismo} />
+                <p>Alcolismo</p>
               </a>
             </div>
             <div className="blog-item">
-              <a href="blogalcoolismo">
-                <img src={banned} />
-                <p>ALCOLISMO</p>
+              <a href="blog3">
+                <img src={exercicio} />
+                <p>Exercicio</p>
               </a>
             </div>
             <div className="blog-item">
-              <a href="blogalcoolismo">
-                <img src={banned} />
-                <p>ALCOLISMO</p>
+              <a href="blog4">
+                <img src={humanizacao} />
+                <p>Humanizacao</p>
               </a>
             </div>
             <div className="blog-item">
-              <a href="blogalcoolismo">
-                <img src={banned} />
-                <p>ALCOLISMO</p>
+              <a href="blog5">
+                <img src={trauma} />
+                <p>Trauma</p>
               </a>
             </div>
             <div className="blog-item">
-              <a href="blogalcoolismo">
-                <img src={banned} />
-                <p>ALCOLISMO</p>
+              <a href="blog6">
+                <img src={discriminacao} />
+                <p>Discriminação</p>
               </a>
             </div>
             <div className="blog-item">
-              <a href="blogalcoolismo">
-                <img src={banned} />
-                <p>ALCOLISMO</p>
+              <a href="blog7">
+                <img src={desigualdade_social} />
+                <p>Desigualdade</p>
               </a>
             </div>
             <div className="blog-item">
-              <a href="blogalcoolismo">
-                <img src={banned} />
-                <p>ALCOLISMO</p>
+              <a href="blog8">
+                <img src={cyberbullying} />
+                <p>CyberBullying</p>
               </a>
             </div>
           </div>
