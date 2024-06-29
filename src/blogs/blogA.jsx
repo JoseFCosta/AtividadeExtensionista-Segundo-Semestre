@@ -1,7 +1,7 @@
 import './blog.css'
 import blog1 from "../assets/blogs/blog1.png"
 
-function Blog1 (){
+function BlogA (){
     return (
 <>
 <header>
@@ -56,4 +56,4 @@ function Blog1 (){
 
 }
 
-export default Blog1
+export default BlogA

@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import HomePage from './homePage/homePage.jsx'
 import Localizacao from './localizacao/localizacao.jsx'
 import SobreNos from './sobrenos/sobrenos.jsx'
-import Blog1 from './blogs/blog1.jsx';
+import Blog1 from './blogs/blogA.jsx';
 import Blog3 from './blogs/blog3.jsx';
 import Blog2 from './blogs/blog2.jsx';
 import Blog4 from './blogs/blog4.jsx';
